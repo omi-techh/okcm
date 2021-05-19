@@ -52,7 +52,7 @@ def okcm():
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
 def moch_okcm():
     time.sleep(0.1)
-    print("\033[97m [\033[96m01\033[97m] Start  Cr4ck ID")
+    print("\033[97m [\033[96m01\033[97m] Start  Hack ID with cookies")
     print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
     print("\033[97m [\033[96m03\033[97m] Joined Grup Fb ❤️ RATU ERROR ❤️")
     print("\033[97m [\033[96m04\033[97m] Joined Grup Fb Viral")
