@@ -22,10 +22,8 @@ def aahh(s):
 def kontol():
     time.sleep(0.3)
     aahh("""\n\x1b[1;91m                       ( ͡◎ ͜ʖ ͡◎)                                      
-                                    
-\x1b[1;97m                                                 
-                                    
-\x1b[1;91m   •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
+                                                    
+\x1b[1;91m               •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : Muhammad Umar
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/omi-techh
@@ -34,10 +32,8 @@ def kontol():
 
 def jembut():
     print("""\n\x1b[1;91m                       ( ͡◎ ͜ʖ ͡◎)                                            
-                                                            
-\x1b[1;97m                                                  
-                                     
-\x1b[1;91m   •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
+                      
+\x1b[1;91m               •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Muhammad Umar
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/omi-techh
